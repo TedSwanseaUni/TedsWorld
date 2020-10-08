@@ -8,5 +8,6 @@ public class helloConsole : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello Console");
+        Debug.Log("Hi Zoom people");
     }
 }
